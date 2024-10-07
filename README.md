@@ -22,11 +22,12 @@
 </a>
 
 
-<details>
-<summary>
-  🔥 배우고 있어요!
-</summary>
-  <br/>
+
+
+
+### 🔥 경험해 본 기술
+<div>
+
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />  
@@ -37,18 +38,10 @@
   <img src="https://img.shields.io/badge/styledcomponents-FF88FB?style=for-the-badge&logo=styled-components&logoColor=white" />  
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</details>
-  
-<details>
-<summary>
-  🌟 배우고 싶어요!
-</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-</details>
+</div>
+<br/>
+<br/>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,10:58A6FF,30:58A6FF,75:58A6FF,100:58A6FF&height=40&section=footer&text=&fontSize=0" width="100%"/>
