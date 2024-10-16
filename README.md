@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />                               
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />   
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />  
-  <img src="https://img.shields.io/badge/styledcomponents-FF88FB?style=for-the-badge&logo=styled-components&logoColor=white" />  
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white" /> 
   <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
