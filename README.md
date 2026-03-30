@@ -72,16 +72,12 @@
 
 ---
 
-### 🔗 Contact & Links
+### 🔗 Links
 
 <br/>
 
 <a href="https://ddunddun-coding.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:kasamin98@naver.com">
-  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
 </a>
 
 <br/><br/>
