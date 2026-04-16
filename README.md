@@ -62,15 +62,6 @@
 
 ---
 
-### 🏆 Baekjoon
-
-<br/>
-
-[![solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=kasamin98)](https://solved.ac/kasamin98)
-
-<br/><br/>
-
----
 
 ### 🔗 Links
 
