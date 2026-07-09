@@ -15,7 +15,7 @@
 
 <!-- Intro -->
 <p>
-  안녕하세요, 프론트엔드 개발자 <strong>최민혁</strong>입니다!<br/>
+  안녕하세요, 개발자 <strong>최민혁</strong>입니다!<br/>
 </p>
 
 <br/>
